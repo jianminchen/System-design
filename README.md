@@ -9,3 +9,7 @@ Here are some blogs to document my learning:
 2. http://juliachencoding.blogspot.com/2018/05/grokking-system-design-interview.html        - May 18, 2018
 3. http://juliachencoding.blogspot.com/2018/05/find-system-design-coach.html                - May 29, 2018
 4. http://juliachencoding.blogspot.com/2018/05/cassadra-netflix-case-study.html             - May 31, 2018
+5. http://juliachencoding.blogspot.com/2018/06/scaling-time-series-data-storage-one.html    - June 1, 2018
+6. http://juliachencoding.blogspot.com/2018/06/netflixs-viewing-data-system-design.html     - June 2, 2018
+7. http://juliachencoding.blogspot.com/2018/06/what-is-microservice-architecture.html       - June 3, 2018
+8. http://juliachencoding.blogspot.com/2018/06/what-i-wish-i-had-know-before-scaling.html   - June 2, 2018
