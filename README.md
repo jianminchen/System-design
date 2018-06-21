@@ -7,3 +7,4 @@ Here are some blogs to document my learning:
 
 1. http://juliachencoding.blogspot.com/2018/05/book-reading-microservices-from-design.html  - May 10, 2018
 2. http://juliachencoding.blogspot.com/2018/05/grokking-system-design-interview.html        - May 18, 2018
+3. http://juliachencoding.blogspot.com/2018/05/cassadra-netflix-case-study.html             - May 31, 2018
